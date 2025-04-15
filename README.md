@@ -26,7 +26,7 @@ Disciplina: Desenvolvimento Web (ou substitua pelo nome correto da disciplina)
 ---
 
 ## 📂 Estrutura do Projeto
-site/
+site/  
 ├── public/ # Arquivos estáticos.  
 ├── src/.  
 │ ├── pages/ # Páginas da aplicação.  
