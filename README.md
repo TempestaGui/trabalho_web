@@ -27,18 +27,18 @@ Disciplina: Desenvolvimento Web (ou substitua pelo nome correto da disciplina)
 
 ## 📂 Estrutura do Projeto
 site/
-├── public/ # Arquivos estáticos
-├── src/
-│ ├── pages/ # Páginas da aplicação
-│ │ ├── home.html # Página principal
-│ │ ├── login.html # Página de autenticação
-│ │ └── ...
-│ ├── scripts/ # Lógica da aplicação
-│ │ ├── main.js # Core da aplicação
-│ │ └── auth.js # Autenticação
-│ └── style.css # Estilos globais
-├── index.html # Ponto de entrada
-└── README.md # Documentação
+├── public/ # Arquivos estáticos.  
+├── src/.  
+│ ├── pages/ # Páginas da aplicação.  
+│ │ ├── home.html # Página principal.  
+│ │ ├── login.html # Página de autenticação.  
+│ │ └── ...  
+│ ├── scripts/ # Lógica da aplicação.  
+│ │ ├── main.js # Core da aplicação.  
+│ │ └── auth.js # Autenticação.  
+│ └── style.css # Estilos globais.  
+├── index.html # Ponto de entrada.  
+└── README.md # Documentação.  
 
 ---
 
@@ -49,4 +49,4 @@ site/
 git clone https://github.com/TempestaGui/trabalho_web
 cd site
 # Utilize a extensão "Live Server" do VS Code
-#ou utilize o npm run dev
+# ou utilize o npm run dev
