@@ -5,7 +5,7 @@ Um sistema completo para organização pessoal com foco em bem-estar e produtivi
 
 **Desenvolvido por:**  
 Guilherme Tempesta Francisco (2312130221)  
-Disciplina: Desenvolvimento Web (ou substitua pelo nome correto da disciplina)
+Disciplina: Tecnologias Web
 
 ---
 
@@ -32,10 +32,9 @@ site/
 │ ├── pages/ # Páginas da aplicação.  
 │ │ ├── home.html # Página principal.  
 │ │ ├── login.html # Página de autenticação.  
-│ │ └── ...  
-│ ├── scripts/ # Lógica da aplicação.  
-│ │ ├── main.js # Core da aplicação.  
-│ │ └── auth.js # Autenticação.  
+│ │    
+│ └── main.js # Core da aplicação.  
+│ └── auth.js # Autenticação.  
 │ └── style.css # Estilos globais.  
 ├── index.html # Ponto de entrada.  
 └── README.md # Documentação.  
