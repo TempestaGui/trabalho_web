@@ -54,41 +54,41 @@ npm run dev
 ````
 ---
 
-# 📅 Agenda Mindful
+# 📅 Agenda Mindful  
 
-Welcome to the Agenda Mindful repository! ✨
-A complete personal organization system focused on well-being and productivity.
+Welcome to the Agenda Mindful repository! ✨  
+A complete personal organization system focused on well-being and productivity.  
 
-**Developed by:**
-Guilherme Tempesta Francisco (2312130221)
-Subject: Web Technologies
-
----
-
-## 🧰 Technologies Used
-
-🖥️ Frontend
-• Semantic HTML5
-• Modern CSS3 (Flexbox, Grid, CSS Variables)
-• JavaScript (ES6+)
-
-🗃️ Storage
-• localStorage for data persistence
-
-🎨 Design
-• Minimalist and intuitive UI/UX
-• Fully responsive (mobile-first)
+**Developed by:**  
+Guilherme Tempesta Francisco (2312130221)  
+Subject: Web Technologies  
 
 ---
 
-## 📂 Estrutura do Projeto
-site/  
-├── public/ # Static files   
-├── src/.     
-│ └── main.js # Core application logic    
-│ └── style.css # Global styles   
-├── index.html # Entry point
-└── README.md # Documentation  
+## 🧰 Technologies Used  
+
+🖥️ Frontend  
+• Semantic HTML5  
+• Modern CSS3 (Flexbox, Grid, CSS Variables)  
+• JavaScript (ES6+)  
+
+🗃️ Storage  
+• localStorage for data persistence  
+
+🎨 Design  
+• Minimalist and intuitive UI/UX  
+• Fully responsive (mobile-first)  
+
+---
+
+## 📂 Estrutura do Projeto  
+site/    
+├── public/ # Static files     
+├── src/.      
+│ └── main.js # Core application logic      
+│ └── style.css # Global styles     
+├── index.html # Entry point  
+└── README.md # Documentation    
 
 ---
 
