@@ -41,6 +41,13 @@ site/
 1. Clone o repositório:
 ```bash
 git clone https://github.com/TempestaGui/trabalho_web
-cd site
-# Utilize a extensão "Live Server" do VS Code
-# ou utilize o npm run dev
+```
+
+```bash
+cd trabalho_web  
+cd site  
+```
+```bash
+npm install  
+npm run dev  
+# ou Utilize a extensão "Live Server" do VS Code
