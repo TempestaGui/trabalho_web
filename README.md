@@ -37,8 +37,8 @@ site/
 ---
 
 ## 🚀 Como Executar || How to Run
-  •  Primeiramente certifique de ter criado e aberto uma pasta no VC Code ou IDE de preferencia 
-  •  First, make sure you've created and opened a folder in VS Code or your preferred IDE:
+  •  Primeiramente certifique de ter criado e aberto uma pasta no VC Code ou IDE de preferencia   
+  •  First, make sure you've created and opened a folder in VS Code or your preferred IDE:  
 ```bash
 git clone https://github.com/TempestaGui/trabalho_web
 ```
